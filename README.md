@@ -1,4 +1,4 @@
-# Help-Twitter-Combat-Hate-Speech-Using-NLP-and-Machine-Learning
+# Twitter-Hate-Speech-Identification-Using-NLP-and-Machine-Learning
 
 # DESCRIPTION  
 
